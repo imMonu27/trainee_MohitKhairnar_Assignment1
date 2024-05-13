@@ -9,7 +9,7 @@ class Program
     {
         bool exit = false;
 
-        while (!exit)
+        while (true)
         {
             Console.WriteLine("\n\n 1.create and add item in list  \n 2.update list at specific index \n 3.delete iteam from list \n 4.show list  \n 5.exit\n");
             Console.Write("Select an option: ");
