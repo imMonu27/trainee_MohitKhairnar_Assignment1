@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\mohit\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\mohit\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\mohit\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\mohit\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\model\\issuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\model\\issuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\mohit\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\entites\\issueentites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BEEC71-BE47-46DC-A620-89747FDD8875}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\entites\\issueentites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwGIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:19:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssueEntites.cs",
+              "DocumentMoniker": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Entites\\IssueEntites.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Entites\\IssueEntites.cs",
+              "ToolTip": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Entites\\IssueEntites.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Entites\\IssueEntites.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA/wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:00:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IssueModel.cs",
+              "DocumentMoniker": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Model\\IssueModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Model\\IssueModel.cs",
+              "ToolTip": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Model\\IssueModel.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Model\\IssueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:59:33.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IssueController.cs",
+              "DocumentMoniker": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\IssueController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\IssueController.cs",
+              "ToolTip": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\IssueController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\IssueController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwEoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:42:56.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\mohit\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:17:48.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
